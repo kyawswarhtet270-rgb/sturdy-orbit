@@ -1,0 +1,7 @@
+{
+  "jwtSecret": "replace-with-strong-secret",
+  "jwtExpires": "7d",
+  "rateLimit": { "windowMs": 60000, "max": 100 },
+  "passwordPolicy": { "minLength": 8 }
+}
+

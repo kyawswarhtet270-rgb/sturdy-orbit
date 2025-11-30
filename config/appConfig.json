@@ -1,0 +1,7 @@
+{
+  "port": 4000,
+  "siteName": "Burmese Queen",
+  "env": "development",
+  "currency": "USD"
+}
+

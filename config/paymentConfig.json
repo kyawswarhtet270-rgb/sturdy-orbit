@@ -1,0 +1,6 @@
+{
+  "stripeSecretKey": "sk_test_...",
+  "stripePublishableKey": "pk_test_...",
+  "currency": "usd"
+}
+
